@@ -1,3 +1,4 @@
 {
-  "r.lsp.enabled": false
+  "r.lsp.enabled": false,
+  "vscode-edge-devtools.webhint": false
 }
